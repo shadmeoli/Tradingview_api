@@ -5,6 +5,5 @@ db-sqlite3
 tradingview-ta
 emoji
 typer
-haslib
 rich
 email-validator
